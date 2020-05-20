@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589643660 source:c:\users\mohamed jedata\c and c++\menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
